@@ -1,2 +1,5 @@
 /env1
+/output
+/__pycache__
 *.json
+
