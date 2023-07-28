@@ -32,6 +32,10 @@ On Mac and Linux:
 ```bash
 python3 pyEncoder.py
 ```
+To execute your encoded python source code:
+```bash
+python3 run.py
+```
 
 ## License
 
